@@ -18,8 +18,6 @@
 - [Visão Geral](#visão-geral)
 - [Tecnologia](#tecnologia)
 - [Configuração do Ambiente](#configuração-do-ambiente)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
 
 ## 🔭 Visão Geral
 
